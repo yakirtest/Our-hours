@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "wvsDZksEhw5mla124lh7cmu3sN+7MJsPCsyF1pxEwvwixvJsOwMvrDyDH2OyDyjjbwJd1Hef9pLsWO37LPVJ2A==",
+  "dgSpecHash": "PGDquGlZlMyHZb+iZPYrBtx9CN8Rs4qoj8o61D5fPt19Htm+lbIh/ciUe7QCNELJi/ebUmN8ppX1Mvn/HSxuiA==",
   "success": true,
-  "projectFilePath": "C:\\GitHub\\Our-hours\\Our_Hours\\Our_Hours.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\GitHub\\Our_Hours\\Our_Hours\\Our_Hours.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,12 @@
+C:\GitHub\Our_hours\Our_Hours_Library\bin\Debug\net5.0\Our_Hours_Library.deps.json
+C:\GitHub\Our_hours\Our_Hours_Library\bin\Debug\net5.0\Our_Hours_Library.dll
+C:\GitHub\Our_hours\Our_Hours_Library\bin\Debug\net5.0\ref\Our_Hours_Library.dll
+C:\GitHub\Our_hours\Our_Hours_Library\bin\Debug\net5.0\Our_Hours_Library.pdb
+C:\GitHub\Our_hours\Our_Hours_Library\obj\Debug\net5.0\Our_Hours_Library.csprojAssemblyReference.cache
+C:\GitHub\Our_hours\Our_Hours_Library\obj\Debug\net5.0\Our_Hours_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Our_hours\Our_Hours_Library\obj\Debug\net5.0\Our_Hours_Library.AssemblyInfoInputs.cache
+C:\GitHub\Our_hours\Our_Hours_Library\obj\Debug\net5.0\Our_Hours_Library.AssemblyInfo.cs
+C:\GitHub\Our_hours\Our_Hours_Library\obj\Debug\net5.0\Our_Hours_Library.csproj.CoreCompileInputs.cache
+C:\GitHub\Our_hours\Our_Hours_Library\obj\Debug\net5.0\Our_Hours_Library.dll
+C:\GitHub\Our_hours\Our_Hours_Library\obj\Debug\net5.0\ref\Our_Hours_Library.dll
+C:\GitHub\Our_hours\Our_Hours_Library\obj\Debug\net5.0\Our_Hours_Library.pdb
