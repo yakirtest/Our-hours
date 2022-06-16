@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "Our_Hours_Library/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Our_Hours_Library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Our_Hours_Library.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Our_Hours_Library/1.0.0": {
+      "type": "project",
+      "path": "../Our_Hours_Library/Our_Hours_Library.csproj",
+      "msbuildProject": "../Our_Hours_Library/Our_Hours_Library.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "Our_Hours_Library >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\itzik\\.nuget\\packages\\": {},
@@ -41,7 +60,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\GitHub\\Our-hours\\Our_Hours_Library\\Our_Hours_Library.csproj": {
+              "projectPath": "C:\\GitHub\\Our-hours\\Our_Hours_Library\\Our_Hours_Library.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
